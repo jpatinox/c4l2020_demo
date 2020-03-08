@@ -3,6 +3,7 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+date-is-approximate?,Date is approximate?
 subject,Subjects,true
 location,Location
 latitude,Latitude
